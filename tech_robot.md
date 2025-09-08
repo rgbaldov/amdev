@@ -3,8 +3,7 @@
 
 *Department of Manufacturing Engineering & Management, De La Salle University*
 
-This module introduces learners to the **principles, operation, and applications of industrial robotics**. It emphasizes hands-on skills, safety awareness, and foundational knowledge to prepare participants for real-world industrial environments.  
----
+This module introduces learners to the **principles, operation, and applications of industrial robotics**. It emphasizes hands-on skills, safety awareness, and foundational knowledge to prepare participants for real-world industrial environments.
 
 ## Learning Objectives  
 By the end of this module, learners will be able to:  
@@ -13,21 +12,17 @@ By the end of this module, learners will be able to:
 - Understand **robot kinematics, degrees of freedom, and work envelopes**.  
 - Operate industrial robots safely following standard procedures.  
 - Perform **basic programming** (online and offline) of industrial robots.  
-- Apply robotics in **manufacturing processes** such as pick-and-place, assembly, and welding.  
----
+- Apply robotics in **manufacturing processes** such as pick-and-place, assembly, and welding.
 
 ## Target Learners  
 - Undergraduate students in **engineering and technology**  
 - Technical-vocational trainees in **mechatronics/automation**  
-- Industry workers transitioning to **automation and robotics roles**  
----
+- Industry workers transitioning to **automation and robotics roles**
 
 ## Duration  
-- **48 hours (6 days / 8 hours per day)** – can be adjusted depending on delivery mode.  
----
+- **48 hours (6 days / 8 hours per day)** – can be adjusted depending on delivery mode.
 
 ## Module Content  
-
 ### **Unit 1: Introduction to Industrial Robotics**  
 - Definition and evolution of robotics  
 - Industrial robot applications (manufacturing, automotive, electronics, packaging, etc.)  
@@ -66,33 +61,29 @@ By the end of this module, learners will be able to:
 - Familiarization with industrial robot trainer or simulation software (e.g., CoppeliaSim, RoboDK, FANUC/ABB/KUKA simulators)  
 - Teach pendant navigation and programming  
 - Execution of basic robotic tasks  
-- Troubleshooting common robot errors  
----
+- Troubleshooting common robot errors
 
 ## Teaching-Learning Strategies  
 - **Lectures & Discussions** (concepts, standards, applications)  
 - **Demonstrations** (real robot or simulation)  
 - **Hands-on practice** (basic programming, operations)  
 - **Case studies** (real-world industrial scenarios)  
-- **Group activities** (simulation exercises, role-play safety drills)  
----
+- **Group activities** (simulation exercises, role-play safety drills)
 
 ## Assessment Methods  
 - **Quizzes & Written Exams** (theory and principles)  
 - **Skills Demonstration** (robot programming & task execution)  
 - **Simulation Project** (offline programming task)  
-- **Oral Presentation** (application of robotics in a chosen industry)  
----
+- **Oral Presentation** (application of robotics in a chosen industry)
 
 ## Required Resources  
 - **Hardware**: Industrial robot arm (if available), teach pendant, safety devices  
 - **Software**: Robotics simulation (CoppeliaSim, RoboDK, ABB RobotStudio, FANUC Roboguide, KUKA Sim, etc.)  
-- **Learning Materials**: Safety manuals, robot datasheets, ISO standards references  
----
+- **Learning Materials**: Safety manuals, robot datasheets, ISO standards references
 
 ## Expected Competencies  
 After completing this module, learners should demonstrate:  
 - **Knowledge competency**: Fundamentals of robotics, safety standards, applications.  
 - **Technical competency**: Basic programming, operating, and simulating industrial robots.  
 - **Safety competency**: Compliance with safety rules in robotic workspaces.  
-- **Employability competency**: Ability to work as a **robotics technician/assistant programmer** in industrial settings.  
+- **Employability competency**: Ability to work as a **robotics technician/assistant programmer** in industrial settings.
