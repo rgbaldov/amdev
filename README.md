@@ -5,7 +5,7 @@ This course explores the evolution, technologies, and applications of advanced r
 It integrates **robotics simulation, AI/ML, industry use cases, and business model innovation**, giving participants both technical and strategic perspectives.  
 ---
 
-## 📍 Module 1: Robotics Foundations & Evolution
+## Session 1: Robotics Foundations & Evolution
 1. **Understanding the Historical Evolution in Robotics**
    - Early developments in automation  
    - Milestones in robotics research & applications  
@@ -17,14 +17,14 @@ It integrates **robotics simulation, AI/ML, industry use cases, and business mod
    - Autonomous robots (drones, AMRs, self-driving systems)  
 ---
 
-## 🖥️ Module 2: Robotics Simulation & Digital Twins
+## Session 2: Robotics Simulation & Digital Twins
 3. **Practical Demonstration: Robotics Simulation of Cobots and Digital Twin**
    - Introduction to simulation platforms (CoppeliaSim, ROS, DELMIA)  
    - Building and testing robotic tasks virtually  
    - Applications of digital twins in monitoring & optimization  
 ---
 
-## 🤖 Module 3: AI & Machine Learning for Robotics
+## Session 3: AI & Machine Learning for Robotics
 4. **Fundamentals of AI & Machine Learning**
    - Core principles (supervised, unsupervised, reinforcement learning)  
    - Neural networks & computer vision basics  
@@ -38,7 +38,7 @@ It integrates **robotics simulation, AI/ML, industry use cases, and business mod
    - AI-powered cobot applications  
 ---
 
-## 🌐 Module 4: Robotics Trends & Industry Applications
+## Session 4: Robotics Trends & Industry Applications
 7. **Current Trends in Robotics**
    - Human-robot collaboration  
    - Robotics in healthcare, agriculture, logistics, defense  
@@ -48,7 +48,7 @@ It integrates **robotics simulation, AI/ML, industry use cases, and business mod
    - Disruptive innovations enabled by robotics  
 ---
 
-## ⚙️ Module 5: Robotics for Efficiency & Innovation
+## Session 5: Robotics for Efficiency & Innovation
 9. **Enhancing Operational Efficiency & Driving Innovations Using Robotics**
    - Process automation and lean practices  
    - Robotics in hazardous and repetitive tasks  
@@ -59,7 +59,7 @@ It integrates **robotics simulation, AI/ML, industry use cases, and business mod
    - Scaling robotics startups  
 ---
 
-## 🚀 Module 6: Applied Robotics Strategy & Business Creation
+## Session 6: Applied Robotics Strategy & Business Creation
 11. **Group Activity: Mapping Potential Applications to Participants’ Organizations**
    - Collaborative brainstorming and mapping  
    - Identifying organizational fit for robotics adoption  
@@ -69,7 +69,7 @@ It integrates **robotics simulation, AI/ML, industry use cases, and business mod
    - Final group presentations  
 ---
 
-## ✅ Suggested Delivery Format
+## Suggested Delivery Format
 - **No. of learning hours: _42_**  
 - **(22-hr in-person/online sessions and 20-hr async sessions)**
 - Combination of **lectures, demonstrations, group activities, and workshops**  
