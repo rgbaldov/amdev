@@ -1,5 +1,5 @@
 # TECHNICAL COMPETENCY IN BASIC INDUSTRIAL ROBOTICS
-*Prepared by: [Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/) & [Richard Josiah C. Tan Ai, MSc](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/richard-tanai/))*
+*Prepared by: [Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/) & [Richard Josiah C. Tan Ai, MSc](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/richard-tanai/)*
 
 This module introduces learners to the **principles, operation, and applications of industrial robotics**. It emphasizes hands-on skills, safety awareness, and foundational knowledge to prepare participants for real-world industrial environments.
 
