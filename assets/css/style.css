@@ -1,0 +1,15 @@
+/* Change background and text colors */
+body {
+  background-color: #087830 !important;
+  color: white !important;
+}
+
+/* Optional: adjust links for visibility */
+a {
+  color: #ffffff !important;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #d4ffd4 !important;
+}
