@@ -1,5 +1,6 @@
 # CERTIFICATE IN ADVANCED ROBOTICS & INTELLIGENT SYSTEMS
 *Prepared by: [Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/) & [Richard Josiah C. Tan Ai, MSc](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/richard-tanai/)*
+*[Department of Manufacturing Engineering and Management](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)*
 
 This course explores the evolution, technologies, and applications of advanced robotics. It integrates **robotics simulation, AI/ML, industry use cases, and business model innovation**, giving participants both technical and strategic perspectives.
 
