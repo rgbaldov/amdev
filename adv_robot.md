@@ -6,7 +6,7 @@
 This course explores the evolution, technologies, and applications of advanced robotics. It integrates **robotics simulation, AI/ML, industry use cases, and business model innovation**, giving participants both technical and strategic perspectives.
 
 ## Session 1: Robotics Foundations & Evolution
-1, **Understanding the Historical Evolution in Robotics**
+1. **Understanding the Historical Evolution in Robotics**
    - Early developments in automation  
    - Milestones in robotics research & applications  
    - Rise of collaborative and autonomous robots  
