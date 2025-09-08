@@ -1,8 +1,7 @@
 # 📘 CERTIFICATE IN ADVANCED ROBOTICS & INTELLIGENT SYSTEMS
 *Prepared by: Renann G. Baldovino & Richard Josiah C. Tan Ai*
 
-This course explores the evolution, technologies, and applications of advanced robotics.  
-It integrates **robotics simulation, AI/ML, industry use cases, and business model innovation**, giving participants both technical and strategic perspectives.  
+This course explores the evolution, technologies, and applications of advanced robotics. It integrates **robotics simulation, AI/ML, industry use cases, and business model innovation**, giving participants both technical and strategic perspectives.  
 ---
 
 ## Session 1: Robotics Foundations & Evolution
