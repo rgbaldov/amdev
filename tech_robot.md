@@ -1,8 +1,7 @@
 # TECHNICAL COMPETENCY IN BASIC INDUSTRIAL ROBOTICS
 *Prepared by: Renann G. Baldovino, PhD & Richard Josiah C. Tan Ai, MSc*
-
 *Department of Manufacturing Engineering & Management, De La Salle University*
-
+--
 This module introduces learners to the **principles, operation, and applications of industrial robotics**. It emphasizes hands-on skills, safety awareness, and foundational knowledge to prepare participants for real-world industrial environments.
 
 ## Learning Objectives  
