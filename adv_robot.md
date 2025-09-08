@@ -1,5 +1,7 @@
-# 📘 CERTIFICATE IN ADVANCED ROBOTICS & INTELLIGENT SYSTEMS
-*Prepared by: Renann G. Baldovino & Richard Josiah C. Tan Ai*
+# CERTIFICATE IN ADVANCED ROBOTICS & INTELLIGENT SYSTEMS
+*Prepared by: Renann G. Baldovino, PhD & Richard Josiah C. Tan Ai, MSc*
+*Department of Manufacturing Engineering & Management*
+*De La Salle University*
 
 This course explores the evolution, technologies, and applications of advanced robotics. It integrates **robotics simulation, AI/ML, industry use cases, and business model innovation**, giving participants both technical and strategic perspectives.  
 ---
