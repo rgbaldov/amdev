@@ -1,6 +1,8 @@
 # TECHNICAL COMPETENCY IN BASIC INDUSTRIAL ROBOTICS
 *Prepared by: Renann G. Baldovino, PhD & Richard Josiah C. Tan Ai, MSc*
+
 *Department of Manufacturing Engineering & Management*
+
 *De La Salle University*
 
 ## 1. Module Overview  
@@ -24,7 +26,7 @@ By the end of this module, learners will be able to:
 ---
 
 ## 4. Duration  
-**40 hours (5 days / 8 hours per day)** – can be adjusted depending on delivery mode.  
+- **40 hours (5 days / 8 hours per day)** – can be adjusted depending on delivery mode.  
 ---
 
 ## 5. Module Content  
