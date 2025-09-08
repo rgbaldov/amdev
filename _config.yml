@@ -5,6 +5,3 @@ nav:
     url: https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/
 theme: jekyll-theme-minimal
 markdown: kramdown
-
-include:
-  - assets/css/style.css
