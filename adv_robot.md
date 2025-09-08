@@ -50,20 +50,20 @@ This course explores the evolution, technologies, and applications of advanced r
    - Robotics in hazardous and repetitive tasks  
    - Robotics as a driver of continuous innovation  
 10. **Enabling New Business Models & Services**
-   - Robotics-as-a-Service (RaaS)  
-   - Customization for SMEs and niche markets  
-   - Scaling robotics startups
+    - Robotics-as-a-Service (RaaS)  
+    - Customization for SMEs and niche markets  
+    - Scaling robotics startups
 
 ## Session 6: Applied Robotics Strategy & Business Creation
 11. **Group Activity: Mapping Potential Applications to Participants’ Organizations**
-   - Collaborative brainstorming and mapping  
-   - Identifying organizational fit for robotics adoption  
+    - Collaborative brainstorming and mapping  
+    - Identifying organizational fit for robotics adoption  
 12. **Workshop: Business Model Creation**
-   - Designing robotics-enabled business models  
-   - Revenue models, partnerships, and scaling strategies 
-   - Final group presentations
+    - Designing robotics-enabled business models  
+    - Revenue models, partnerships, and scaling strategies 
+    - Final group presentations
 
 ## Suggested Delivery Format
-- **No. of learning hours: _42_**
-- **(22-hr in-person/online sessions and 20-hr async sessions)**
-- Combination of **lectures, demonstrations, group activities, and workshops**
+   - **No. of learning hours: _42_**
+   - **(22-hr in-person/online sessions and 20-hr async sessions)**
+   - Combination of **lectures, demonstrations, group activities, and workshops**
