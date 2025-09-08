@@ -1,7 +1,4 @@
 title: "Industrial Robotics Training"
 description: "Department of Manufacturing Engineering & Management"
-nav:
-  - title: "Department of Manufacturing Engineering & Management"
-    url: https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/
 theme: jekyll-theme-minimal
 markdown: kramdown
